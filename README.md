@@ -10,6 +10,6 @@ I am very Passionate about crafting scalable web applications that deliver a sea
 Check out my repositories to see what I've been up to! 💻
 
 **Primary Tech Stack:**
-- **Languages:** C#, HTML, CSS, JavaScript, PHP, Java
-- **FrontEnd:** Bootstrap, Node.js, ReactJS
-- **BackEnd Languages:** C#, PHP
+- **Languages:** C#, HTML, CSS, JavaScript, Java, 
+- **FrontEnd:** React, MongoDb
+- **BackEnd Languages:** C#, C++
